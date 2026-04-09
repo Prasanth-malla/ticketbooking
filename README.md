@@ -5,11 +5,6 @@ This project allows users to view movies, select seats, sign up, log in, and boo
 
 ---
 
-## 🔗 Live Demo
-*(Optional: Add link if deployed, e.g., GitHub Pages or hosting server)*  
-
----
-
 ## 🛠️ Features
 - User registration and login system
 - Browse movies with posters and details
@@ -32,15 +27,25 @@ This project allows users to view movies, select seats, sign up, log in, and boo
 ticketbooking/
 │
 ├── index.html # Homepage with movies
+
 ├── signup.html # User registration page
+
 ├── logging.html # User login page
+
 ├── forgotpass.html # Password recovery page
+
 ├── logging.php # Login backend
+
 ├── getpass.php # Password recovery backend
+
 ├── users.html # Admin page to view users
+
 ├── users.php # Backend for user management
+
 ├── style.css # Main stylesheet
+
 ├── images/ # Movie posters and background images
+
 └── README.md # Project documentation
 
 
@@ -56,6 +61,9 @@ ticketbooking/
 5. Open index.html in your browser
    
 📬 Contact
+
 Developer: Malla Prasanth
+
 Email: mallaprasanth1234@gmail.com
+
 GitHub: https://github.com/Prasanth-malla
