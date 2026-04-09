@@ -25,7 +25,8 @@ This project allows users to view movies, select seats, sign up, log in, and boo
 
 ## 📁 Project Structure
 ticketbooking/
-│
+
+
 ├── index.html # Homepage with movies
 
 ├── signup.html # User registration page
